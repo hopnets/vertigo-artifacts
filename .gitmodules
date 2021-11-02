@@ -1,0 +1,12 @@
+[submodule "vertigo_host"]
+	path = vertigo_host
+	url = https://github.com/hopnets/vertigo_host
+[submodule "vertigo_simulations"]
+	path = vertigo_simulations
+	url = https://github.com/hopnets/vertigo_simulations
+[submodule "vertigo_scheduler_fpga_implementation"]
+	path = vertigo_scheduler_fpga_implementation
+	url = https://github.com/hopnets/vertigo_scheduler_fpga_implementation
+[submodule "vertigo_plots"]
+	path = vertigo_plots
+	url = https://github.com/hopnets/vertigo_plots
